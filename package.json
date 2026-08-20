@@ -1,4 +1,6 @@
 {
+  "name": "fitly",
+  "version": "1.0.0",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
